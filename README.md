@@ -34,7 +34,11 @@ will be automoatically set. Afterwards, you can play with them as you wish.
 ## Deployment
 
 If you would like to deploy your application to the cloud to be able to use it from anywhere, you can sign up a free account
-at [Shinyapps.io](https://shiny.rstudio.com/deploy/). In this case, follow the steps at [Shinyapps.io/Getting started](https://shiny.rstudio.com/articles/shinyapps.html)
+at [Shinyapps.io](https://shiny.rstudio.com/deploy/). In this case, follow the steps at [Shinyapps.io/Getting started](https://shiny.rstudio.com/articles/shinyapps.html). 
+
+## Example
+You can visit [onlinemoco visualizer](https://onlinemoco.shinyapps.io/gMOCO/) to see the application. You can use it as well by 
+submitting your input file. However, that is a free account provided by Shinyapps and limited to 25 hours of use per month per account. So, you may not reach the application if it hits the time limit.
 
 
 ## Authors
