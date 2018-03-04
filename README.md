@@ -13,46 +13,16 @@ In order to be able to get the application running, you need to first download [
 You can dowload the free desktop version. Once you installed the RStudio on your computer, you should follow these steps:
 
 ```
-Give examples
+Create a new project and a new file of type R script.
 ```
 
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+```
+In order to install the required libraries, just comment out the four lines at the top of the file. Do this for only the first run of
+the applciation. You can comment them again after the first run.
 
 ```
-Give the example
-```
 
-And repeat
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
