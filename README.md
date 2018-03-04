@@ -5,7 +5,7 @@ for the ones working on multi-criteria decision making problems.
 ## Getting Started
 This application has been built on the Shiny web application framework provided by RStudio. In this repository, we provide the source code
 specific to the three-dimensional data. It can also be used for two-dimensional data by creating an artificial additional dimension to your points.
-For higher dimensions, the source code can be easily modified by the ones familiar with the R language.
+For higher dimensions, the source code can be easily modified by the ones familiar with the R language. If you would like to do that, fork this repository, develop the code and then create a pull request to this repository so that we can add it here.
 
 ### Prerequisites
 
