@@ -16,44 +16,25 @@ You can dowload the free desktop version. Once you installed the RStudio on your
 Create a new project and a new file of type R script.
 ```
 
-```
-In order to install the required libraries, just comment out the four lines at the top of the file. Do this for only the first run of
-the applciation. You can comment them again after the first run.
+In order to install the required libraries, just comment out the four lines at the top of the file. 
+Do this for only the first run of the applciation. You can comment them again after the first run.
+Alternatively, you can run the following commands from the console:
 
 ```
-
-
+install.packages("shiny")
+install.packages("shinydashboard")
+install.packages("plotly")
+install.packages("DT")
+```
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+If you would like to deploy your application to the cloud to be able to use it from anywhere, you can sign up a free account
+at [Shinyapps.io](https://shiny.rstudio.com/deploy/). In this case, follow the steps at [Shinyapps.io/Getting started](https://shiny.rstudio.com/articles/shinyapps.html)
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Gokhan Ceyhan** 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
