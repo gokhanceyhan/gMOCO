@@ -17,8 +17,8 @@ Create a new project and a new file of type R script.
 ```
 
 In order to install the required libraries, just comment out the four lines at the top of the file. 
-Do this for only the first run of the applciation. You can comment them again after the first run.
-Alternatively, you can run the following commands from the console:
+Do this for only the first run of the application. You can comment them again after the first run.
+Alternatively, you can run the following commands from the console of RStudio:
 
 ```
 install.packages("shiny")
@@ -26,6 +26,9 @@ install.packages("shinydashboard")
 install.packages("plotly")
 install.packages("DT")
 ```
+
+### Input Format
+To input the list of nondominated points to the application, create a .csv file in which there must be three columns. The firs row of the file must contain the headers "z1","z2" and "z3". Starting from the second row, each row must contain the values of a nondominated point at each corresponding criterion.
 
 ## Deployment
 
