@@ -28,7 +28,7 @@ install.packages("DT")
 ```
 
 ### Input Format
-To input the list of nondominated points to the application, create a .csv file in which there must be three columns. The firs row of the file must contain the headers "z1","z2" and "z3". Starting from the second row, each row must contain the values of a nondominated point at each corresponding criterion.
+To input the list of nondominated points to the application, create a .csv file in which there must be three columns. The first row of the file must contain the headers "z1", "z2" and "z3". Starting from the second row, each row must contain the values of a nondominated point at each corresponding criterion.
 
 ## Deployment
 
