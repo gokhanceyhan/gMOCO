@@ -38,7 +38,7 @@ at [Shinyapps.io](https://shiny.rstudio.com/deploy/). In this case, follow the s
 
 ## Example
 You can visit [onlinemoco visualizer](https://onlinemoco.shinyapps.io/gMOCO/) to see the application. You can use it as well by 
-submitting your input file. However, that is a free account provided by Shinyapps and limited to 25 hours of use per month per account. So, you may not reach the application if it hits the time limit.
+submitting your input file. However, that is a free account provided by Shinyapps and limited to 25 hours of use per month per account. So, you may not reach the application if it has already hit the time limit.
 
 
 ## Authors
