@@ -1,5 +1,5 @@
 # vMOCO
-A visualization tool for the nondominated frontiers of multi-objective integer programming problems. The underlying motivation behind this application is to provide a ready-to-use visualization tools
+A visualization tool for the nondominated points of multi-objective integer programming problems. The underlying motivation behind this application is to provide a ready-to-use visualization tools
 for the ones working on multi-criteria decision making problems.
 
 ## Getting Started
